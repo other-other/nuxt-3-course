@@ -4,5 +4,5 @@ export default defineNuxtConfig({
   //     SUPABASE_URL: "",
   //     SUPABASE_KEY: "",
   //   },
-  modules: ["@nuxtjs/supabase"],
+  modules: ["@nuxtjs/supabase", "@vueuse/nuxt", "@vueuse/nuxt"],
 });
