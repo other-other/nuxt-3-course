@@ -23,4 +23,8 @@ async function getData() {
   title.value = course.title;
 }
 </script>
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.style {
+  background-color: red;
+}
+</style>
